@@ -23,4 +23,4 @@ Les fichiers proposés sont compilables sur la version de l'IDE Arduino 1.8.19 d
 
 ![Préférences Arduino 1.8.19](img/prefrence_arduino_ide.jpg)
 
-le lien exacte est [préférences](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json)
+le lien exacte est [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json)
