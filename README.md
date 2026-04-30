@@ -8,13 +8,14 @@ Le projet AQOR de mesure de la qualité de l'air et du bruit est organisé autou
  
 ![Architecture](img/Architecture.png)
 
-#### Cartes électroniques pour le capteur
-
-##### Carte Proceseur
-
-##### Carte BME680-INMP441
+#### Cartes électroniques pour le capteur 
+L'électronique du capteur extérieur repose sur 3 cartes électronique dont les PCB réalisés avec KiCAD sont donnés dans les répertoires 
+- pour la carte processeur: [Carte_Processeur](https://github.com/atena-aqor/aqor-s/tree/main/AQOR_Carte_Capteurs)
+- pour la carte supportant les capteurs BME80 et INMP441 [Carte BME680/INMP441](https://github.com/atena-aqor/aqor-s/tree/main/AQOR_Carte_processeur)
+Les cartes ont été développées avec le logiciel libre KiCAD en version 7.0
 
 #### Boîtiers à imprimer
+Les fichiers .STL pour l'impression 3D des boitiers sont donnés dans le répertoire: [Boitiers](https://github.com/atena-aqor/aqor-s/tree/main/AQOR%20STL)
 
 ### Architecture logicielle
 
