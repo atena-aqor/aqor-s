@@ -1,6 +1,6 @@
-# Architecture logicielle du projet AQOR
+# Architecture du projet AQOR
 ## Présentation du projet
-
+Le projet AQOR de mesure de la qualité de l'air et du bruit est organisé autour de capteurs fonctionnant sur batterie communiquant en protocole LORA avec une passerelle LORA-->Wifi permettant d'envoyer les mesures à un centre de collecte et de diffusion. Le projet comprend donc des aspects de fabircation du matériel et de développement du logiciel associé. Ces différents points sont abordés sur dépôt
 
 ### Architecture matérielle
 
