@@ -19,8 +19,8 @@ Les codes sources des programmes d'**émission** et de **passerelle** sont décr
 
 ### Compilation des fichiers arduino 
 
-Les fichiers proposés sont compilables sur la version de l'IDE Arduino 1.8.19 dont il faut choisir les préférences indiquées dans la figure suiivante 
+Les fichiers proposés sont compilables sur la version de l'IDE Arduino 1.8.19 dont il faut choisir les préférences indiquées dans la figure suivante 
 
-![preference_Arduino](img/prefrences_arduino_ide.jpg)
+![preferences_Arduino](img/preferences_arduino_ide.jpg)
 
-le lien exacte est [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json)
+le lien exact surligné en bleu  est [https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/download/1.0.0/package_heltec_esp32_index.json)
