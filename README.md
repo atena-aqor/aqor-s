@@ -8,6 +8,14 @@ Le projet AQOR de mesure de la qualité de l'air et du bruit est organisé autou
  
 ![Architecture](img/Architecture.png)
 
+#### Cartes électroniques pour le capteur
+
+##### Carte Proceseur
+
+##### Carte BME680-INMP441
+
+#### Boîtiers à imprimer
+
 ### Architecture logicielle
 
 Elle comprend:
