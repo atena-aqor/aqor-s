@@ -11,6 +11,6 @@ et le schéma Kicad du PCB est donné ci-dessous
 
 ## Fichiers de conception 
 La conception a été réalisée avec KICAD 7.0 [https://www.kicad.org/](https://www.kicad.org/)
-Les fichiers de conception sont donnés dans le fichier [Kicad_AQOR_BME80_INMP441_pro.zip](https://github.com/atena-aqor/aqor-s/blob/main/AQOR_Carte_Capteurs/Kicad_AQOR_BME80_INMP441_pro.zip)
+Les fichiers de conception sont donnés dans le fichier [Kicad_AQOR_Capteur.zip](https://github.com/atena-aqor/aqor-s/blob/main/AQOR_Carte_processeur/Kicad_AQOR_Capteur.zip)
 
 
